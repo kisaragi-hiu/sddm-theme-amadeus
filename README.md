@@ -1,7 +1,7 @@
 # Amadeus Theme for SDDM
 
 ## INSTALL:
-Copy this folder to /usr/share/sddm/themes/ or to similar path with SDDM themes and apply. You will also need the Qt Graphical Effects module installed.
+Copy this folder to /usr/share/sddm/themes/ or to similar path with SDDM themes and apply. You will also need the [Qt5 Compatibility Graphical Effects](https://doc.qt.io/qt-6/qtgraphicaleffects5-index.html) module installed.
 	
 For optional virtual keyboard support, install Qt Virtual Keyboard and [enable it in your SDDM config.](https://wiki.archlinux.org/index.php/SDDM#Enable_virtual_keyboard)
 
